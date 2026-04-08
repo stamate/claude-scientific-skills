@@ -1,5 +1,5 @@
 {
-  "name": "stm-sci-skills",
+  "name": "claude-scientific-skills",
   "owner": {
     "name": "K-Dense Inc.",
     "email": "contact@k-dense.ai"
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "sci-skills",
+      "name": "scientific-skills",
       "description": "Collection of scientific skills",
       "source": "./",
       "strict": false,
